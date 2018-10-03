@@ -3,7 +3,7 @@ from conans import tools
 
 class CxxoptsConan(ConanFile):
     name = "cxxopts"
-    version = "2.0.0"
+    version = "2.1.1"
     description = "Lightweight C++ command line option parser."
     license = "MIT"
     url = "https://github.com/jarro2783/cxxopts"
